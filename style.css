@@ -62,3 +62,18 @@ nav .navbar-nav li a{
 .display-1 {
     font-size: 60px;
 }
+
+.resume-button {
+    text-decoration: none !important;
+    color: black;
+}
+
+.resume-button:hover {
+    color: white;
+}
+
+.btn-primary {
+    background-color: #edc9fc !important;
+    border-style: none !important;
+
+}

@@ -57,4 +57,8 @@ nav .navbar-nav li a{
 .fa-icon {
     background: #af98f1;
     color: white;
-  }
+}
+
+.display-1 {
+    font-size: 60px;
+}

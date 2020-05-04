@@ -1,0 +1,60 @@
+nav .navbar-nav li a{
+    font-family: 'Domine', serif !important;
+}
+
+.navbar-brand{
+    font-family: 'Domine', serif !important;
+}
+
+.display-1 {
+    font-family: 'Domine', serif !important;
+}
+
+.purple {
+    background-color: #F5E1FD;
+}
+
+.blue {
+    background-color: #DBF3FA;
+}
+
+.about {
+    background-color: #F5E1FD;
+}
+
+.paragraph {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+
+.link{
+    text-decoration: none !important;
+}
+
+.about-box {
+    background-color: #fde1e9;
+}
+
+.photography-box {
+    background-color: #e3fcf8;
+}
+
+.contact-box {
+    background-color: #faf2db;
+}
+
+/* connect */
+.fa {
+    padding: 1em;
+    text-decoration: none !important;
+  }
+
+.fa:hover {
+    opacity: 0.7;
+    color: white !important;
+}
+
+.fa-icon {
+    background: #af98f1;
+    color: white;
+  }
